@@ -38,6 +38,7 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "vlucas/phpdotenv": "3.6.0",
+    "wpackagist-plugin/wordpress-importer": "^0.6.4",
     "wpackagist-plugin/wp-super-cache": "^1.7"
   },
   "require-dev": {
