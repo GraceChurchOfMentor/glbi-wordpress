@@ -6,6 +6,8 @@ web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 web/app/wp-cache-config.php
+web/app/cache/*
+!web/app/cache/index.html
 
 # WordPress
 web/wp
